@@ -36,7 +36,7 @@ Wissenschaftliche Arbeit über hybride Ansätze zur Reduktion von Halluzinatione
 **AI & Data:** LLMs, Generative AI, Pandas, NumPy
 **Backend:** FastAPI, Spring Boot, REST APIs, PostgreSQL
 **Testing:** JUnit, Spring Boot Test, Playwright, Gauge
-**Tools:** Git, Maven, Jenkins, Docker, Kubernetes
+**Tools:** Git, Maven, Jenkins, Docker
 
 ## Berufliches Ziel
 
