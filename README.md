@@ -1,47 +1,43 @@
 # Hi, ich bin Tarik 👋
 
-Ich studiere Informatik und beschäftige mich schwerpunktmäßig mit **Künstlicher Intelligenz, Machine Learning und Softwareentwicklung**.
+Ich bin Informatik-Absolvent mit Schwerpunkt auf **AI Engineering, Large Language Models und Softwareautomatisierung**. Neben KI-Projekten bringe ich praktische Erfahrung in der Java-basierten Softwareentwicklung, Testautomatisierung und Qualitätssicherung mit.
 
-Auf meinem GitHub veröffentliche ich Projekte aus meinem Studium sowie eigene Lern- und Entwicklungsprojekte. Dabei liegt mein Fokus darauf, theoretische Konzepte praktisch umzusetzen und durch eigene Implementierungen ein tiefes Verständnis für Technologien aufzubauen.
+In meiner mit **1,0 bewerteten Bachelorarbeit** entwickelte und evaluierte ich einen Human-in-the-Loop-Workflow zur Integration von Large Language Models in Softwareentwicklungsprozesse. Der zugehörige Quellcode ist aufgrund des Unternehmenskontexts nicht öffentlich verfügbar.
 
-## Interessen
+## Schwerpunkte
 
-- Künstliche Intelligenz & Machine Learning
-- Neuronale Netze und Deep Learning
-- Softwareentwicklung
-- Software Testing & Quality Assurance
-- Algorithmen und Datenstrukturen
-- DevOps und moderne Entwicklungsprozesse
+* AI Engineering und Generative AI
+* Large Language Models und Human-in-the-Loop
+* Software- und Workflow-Automatisierung
+* Backend- und REST-API-Entwicklung
+* Software Testing und Quality Assurance
 
-## Projekte
+## Ausgewählte Projekte
 
-Einige Schwerpunkte meiner Repositories:
+### [Fullstack Finance Dashboard](https://github.com/Tarik-g/fullstack-finance-dashboard)
 
-### Artificial Intelligence & Machine Learning
+Fullstack-Anwendung zur Verarbeitung und Analyse von Banktransaktionen mit FastAPI, Pandas, PostgreSQL und React.
 
-- Implementierung verschiedener neuronaler Netzwerke
-- Perzeptron-Lernregel
-- Backpropagation und iRProp− Optimierung
-- Restricted Boltzmann Machines
-- CNN-Grundlagen und Pooling
-- Rekurrente neuronale Netze
+### [Grundlagen neuronaler Netze](https://github.com/Tarik-g/grundlagen-neuronale-netze)
 
-### Softwareentwicklung
+Eigene Implementierungen zentraler Konzepte wie Perzeptron-Lernregel, Backpropagation, iRProp−, Restricted Boltzmann Machines, CNN-Pooling und rekurrente neuronale Netze.
 
-- Entwicklung von Webanwendungen
-- Software Testing mit JUnit, Spring Boot Test und Playwright
-- CI/CD und DevOps-Konzepte
-- Arbeiten mit modernen Entwicklungsumgebungen und Frameworks
+### [Softwareentwicklungsprojekt](https://github.com/Tarik-g/softwareentwicklungsprojekt)
 
-### Python & Programmiergrundlagen
+Im Team entwickelte Webanwendung für Skill-Management und Einsatzplanung. Mein Schwerpunkt lag auf Testing und Quality Assurance mit JUnit, Spring Boot Test und Playwright.
 
-- Datenstrukturen und Algorithmen
-- Arbeiten mit NumPy und Pandas
-- Automatisierungstools
-- kleinere eigene Projekte und Experimente
+### [LLM-Halluzinationen in medizinischen Textzusammenfassungen](https://github.com/Tarik-g/medizinische-textzusammenfassung-ki-halluzinationen)
 
-## Aktuell
+Wissenschaftliche Arbeit über hybride Ansätze zur Reduktion von Halluzinationen bei KI-generierten medizinischen Textzusammenfassungen.
 
-Nach meinem Bachelorabschluss suche ich eine Position als **AI Engineer** oder **Software Developer**, in der ich meine Kenntnisse in künstlicher Intelligenz, Machine Learning und moderner Softwareentwicklung einbringen und weiterentwickeln kann.
+## Technologien
 
-Ich freue mich über den Austausch zu spannenden Projekten und Technologien!
+**Programmiersprachen:** Python, Java, JavaScript, SQL
+**AI & Data:** LLMs, Generative AI, Pandas, NumPy
+**Backend:** FastAPI, Spring Boot, REST APIs, PostgreSQL
+**Testing:** JUnit, Spring Boot Test, Playwright, Gauge
+**Tools:** Git, Maven, Jenkins, Docker, Kubernetes
+
+## Berufliches Ziel
+
+Ich suche den Einstieg als **AI Engineer** oder **Software Engineer mit Schwerpunkt LLM- und Workflow-Automatisierung**.
