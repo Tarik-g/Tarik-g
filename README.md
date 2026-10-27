@@ -4,6 +4,8 @@ Ich bin Masterstudent der Informatik an der **RPTU Kaiserslautern-Landau** mit S
 
 Meinen Bachelor in Informatik habe ich 2026 abgeschlossen. In meiner mit **1,0 bewerteten Bachelorarbeit** entwickelte und evaluierte ich einen Human-in-the-Loop-Workflow für den Einsatz von LLMs in Softwareentwicklungsprozessen.
 
+Dabei sammelte ich praktische Erfahrung in der Konzeption, Orchestrierung und Evaluation agentenbasierter LLM-Workflows sowie in der Integration von Entwicklungswerkzeugen über MCP.
+
 ## Schwerpunkte
 
 - AI Engineering und Generative AI
